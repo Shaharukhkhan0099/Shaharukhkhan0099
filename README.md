@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shahrukh Tech</h1>
+<h1 align="center">Hi 👋, I'm Shahrukh </h1>
 <h3 align="center">A passionate Data Enthusiast | Analytics Expert |Ms-Excel |SQL & Power BI |Python</h3>
 
 - 👨‍💻 All of my projects are available at [Shaharukhkhan0099](Shaharukhkhan0099)
